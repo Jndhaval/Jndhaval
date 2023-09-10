@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **| React.js | DevOps |**
 
-- 💬 Ask me about ** | C++ | Python | HTML5 | CSS3 | JavaScript | Machine Learning | Tailwind CSS | Git | Github |**
+- 💬 Ask me about **| C++ | Python | HTML5 | CSS3 | JavaScript | Machine Learning | Tailwind CSS | Git | Github |**
 
 - 📫 How to reach me **dhavaljain.414@gmail.com.**
 
