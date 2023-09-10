@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C++ | Python | HTML5 | CSS3 | JavaScript | Machine Learning | Tailwind CSS | Git | Github**
 
-- 📫 How to reach me **dhavaljain@gmail.com.**
+- 📫 How to reach me **dhavaljain.414@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
