@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jndhaval" alt="jndhaval" /></a> </p>
 
-- 🌱 I’m currently learning **React.js | DevOps**
+- 🌱 I’m currently learning **| React.js | DevOps |**
 
-- 💬 Ask me about **C++ | Python | HTML5 | CSS3 | JavaScript | Machine Learning | Tailwind CSS | Git | Github**
+- 💬 Ask me about ** | C++ | Python | HTML5 | CSS3 | JavaScript | Machine Learning | Tailwind CSS | Git | Github |**
 
 - 📫 How to reach me **dhavaljain.414@gmail.com.**
 
