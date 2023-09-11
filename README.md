@@ -1,4 +1,3 @@
-![make-backend-in-flask-and-sql-alchemy](https://github.com/Jndhaval/Jndhaval/assets/61612894/2b98ceb1-7106-4517-bb91-1a4feba02a28)
 
 
 <h1 align="center">Hi 👋, I'm Dhaval Jain</h1>
